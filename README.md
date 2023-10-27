@@ -1,6 +1,6 @@
  <p align="center">
   <a href="https://datasaurus.app">
-    <img height="70" src="https://raw.githubusercontent.com/datasaurus-ai/datasaurus/d03d4bf9458adf67ca2e1579bf8be3fc1173e04c/frontend/public/logo.png?raw=true" alt="logo">
+    <img height="150" src="https://raw.githubusercontent.com/datasaurus-ai/datasaurus/d03d4bf9458adf67ca2e1579bf8be3fc1173e04c/frontend/public/logo.png?raw=true" alt="logo">
   </a>
 </p>
 <h1 align="center">
