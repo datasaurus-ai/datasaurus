@@ -1,1 +1,4 @@
-load_dotenv
+python-dotenv==1.0.0
+fastapi[all]==0.104.0
+replicate==0.15.4
+supabase==1.2.0

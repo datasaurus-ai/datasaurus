@@ -21,6 +21,7 @@ import { ChangeEvent, useEffect , useState} from "react"
 import { Loader2 } from "lucide-react"
 import { createPipeline } from "@/api/pipeline";
 import { useRouter } from 'next/navigation'
+import { Textarea } from "@/components/ui/textarea";
 
 const MAX_FILE_SIZE = 5000000;
 const ACCEPTED_IMAGE_TYPES = ["image/jpeg", "image/jpg", "image/png"];
@@ -221,8 +222,13 @@ export default function CreatePipeline() {
           render={({ field }) => (
             <FormItem>
               <FormLabel>Prompt<span className="text-red-500">*</span></FormLabel>
+              
               <FormControl>
-                <Input placeholder="What is the primary color in the picture?" {...field} />
+                <Textarea
+                  placeholder="What is the primary color in the picture?"
+                  className="resize-none"
+                  {...field}
+                />
               </FormControl>
               <FormDescription>
                 The prompt that is used on image send to the pipeline.
@@ -277,7 +283,10 @@ export default function CreatePipeline() {
       </form>
     </Form>
 
-{responseMessage && <div className="alert alert-success">{responseMessage}</div>}
+{responseMessage && 
+  <div className="alert alert-success pt-6" >
+    <span className="font-bold">Output:</span> {responseMessage}
+  </div>}
 {errorMessage && <div className="alert alert-danger">{errorMessage}</div>}
 </>
   )
