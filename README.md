@@ -51,14 +51,14 @@ Instead of training a model from scratch you can just prompt your images
 ## Roadmap
 
 - [x] v0 launched
-- [] add examples sections
-- [] dataset importer + associated dashboard
-- [] parameterizable prompt 
-- [] finetune models
-- [] add visual in-context learning
-- [] support for additional inference backend (gglm)
-- [] hosting service deployment (right now waitlist)
-- [] stronger output guidance
+- [ ] add examples sections
+- [ ] dataset importer + associated dashboard
+- [ ] parameterizable prompt 
+- [ ] finetune models
+- [ ] add visual in-context learning
+- [ ] support for additional inference backend (gglm)
+- [ ] hosting service deployment (right now waitlist)
+- [ ] stronger output guidance
 
 ## Running Locally
 
