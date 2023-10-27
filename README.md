@@ -22,6 +22,11 @@
 
 <br>
 Leverage foundational text-vision model for your computer vision tasks. Instead of having to train from scratch your own models rely on pre-trainded models. You can achieve great performance with no data and even better one with a couple of datapoints. You already have a lot of data, then exceed your previous models by fine-tuning a foundational model (coming soon)
+<br>
+<br>
+<p align="center">
+ <img width="720" src="https://github.com/datasaurus-ai/datasaurus/blob/63bd3dc725a8bfe2bdd42d8b65f7802f05759371/frontend/public/demo.gif?raw=true" alt="demo">
+</p>
 
 ## Features
 
