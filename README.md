@@ -1,6 +1,6 @@
  <p align="center">
   <a href="https://datasaurus.app">
-    <img height="70" src="/asset/logo.png" alt="logo">
+    <img height="70" src="https://raw.githubusercontent.com/datasaurus-ai/datasaurus/d03d4bf9458adf67ca2e1579bf8be3fc1173e04c/frontend/public/logo.png?raw=true" alt="logo">
   </a>
 </p>
 <h1 align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="/LICENSE"><img alt="License Apache-2.0" src=""></a>
+  <a href="/LICENSE"><img alt="License Apache-2.0" src="https://img.shields.io/github/license/datasaurus-ai/datasaurus?style=flat-square"></a>
 </p>
 
 <p align="center">
@@ -21,13 +21,6 @@
 
 <br>
 Leverage foundational text-vision model for your computer vision tasks. Instead of having to train from scratch your own models rely on pre-trainded models. You can achieve great performance with no data and even better one with a couple of datapoints. You already have a lot of data, then exceed your previous models by fine-tuning a foundational model (coming soon)
-
-<a href="#running-locally">run it locally</a>.
-<br>
-<br>
-<p align="center">
- <img width="720" src="" alt="fine-tune demo">
-</p>
 
 ## Features
 
