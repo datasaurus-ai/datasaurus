@@ -7,5 +7,5 @@ CREATE TABLE IF NOT EXISTS pipeline (
     endpoint TEXT NOT NULL
 );
 
-alter table pipeline
-  enable row level security;
+-- alter table pipeline
+--   enable row level security;

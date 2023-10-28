@@ -1,7 +1,5 @@
 __pycache__/
 
-env.py
-
 gcp.json
 
 .ruff_cache
