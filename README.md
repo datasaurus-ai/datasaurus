@@ -25,7 +25,7 @@ Leverage foundational text-vision model for your computer vision tasks. Instead 
 <br>
 <br>
 <p align="center">
- <img width="720" src="https://github.com/datasaurus-ai/datasaurus/blob/63bd3dc725a8bfe2bdd42d8b65f7802f05759371/frontend/public/demo.gif?raw=true" alt="demo">
+ <img width="720" src="https://github.com/datasaurus-ai/datasaurus/blob/fd28e7dededc80d4e24cb09df6ad852051698d44/frontend/public/demo.gif?raw=true" alt="demo">
 </p>
 
 ## Features
