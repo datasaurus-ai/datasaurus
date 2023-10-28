@@ -1,4 +1,4 @@
-# Backend
+# Datasaurus backend
 
-## How to run 
+How to run 
 `uvicorn src.main:app --reload`

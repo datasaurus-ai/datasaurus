@@ -73,10 +73,10 @@ Instead of training a model from scratch you can just prompt your images
 3. Install [Conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
 4. Clone this repository and open it: `git clone https://github.com/datasaurus-ai/datasaurus && cd datasaurus`
 5. Install the frontend dependencies: `cd frontend && npm install && cd ..`
-6. Install the backend dependencies: `cd backend && conda create --name datasaurus-backemnd --file requirements.txt && cd ..`
+6. Install the backend dependencies: `cd backend && conda create --name datasaurus-backend --file requirements.txt && cd ..`
 7. Start supabase: `supabase start`
 8. Complete the backend `.env` file (`cd frontend && cp .env.example .env && cd ..`)
 9. Complete the frontend `.env` file (`cd frontend && cp .env.example .env && cd ..`)
-10. Start the backend: `cd frontend && uvicorn src.main:app --reload && cd ..`.
+10. Start the backend: `cd frontend && conda activate datasaurus-backend && uvicorn src.main:app --reload && cd ..`.
 11. Start the frontend: `cd frontend && npm run dev && cd ..`.
 12. Navigate to [http://localhost:3000](http://localhost:3000)
