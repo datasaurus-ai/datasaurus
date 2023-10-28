@@ -51,8 +51,8 @@ Instead of training a model from scratch, you can just prompt your images.
 
 ## Supported Base Models
 
-- llava-v1.5-7b
-- llava-v1.5-13b
+- LLaVA-v1.5-7B
+- LLaVA-v1.5-13B
 - GPT4-V (as soon as the model API is available)
 
 ## Roadmap
