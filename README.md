@@ -82,3 +82,7 @@ Instead of training a model from scratch, you can just prompt your images.
 11. Start the backend: `cd backend && source datasaurus-backend/bin/activate && uvicorn src.main:app --reload && cd ..`
 12. Start the frontend: `cd frontend && npm run dev && cd ..`.
 13. Navigate to [http://localhost:3000](http://localhost:3000)
+
+## Interested?
+
+If you are interested, please leave us a star or/and sign up for launch of the hosted version on [datasaurus.app](https://datasaurus.app)
