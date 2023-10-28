@@ -85,4 +85,4 @@ Instead of training a model from scratch, you can just prompt your images.
 
 ## Interested?
 
-If you are interested, please leave us a star or/and sign up for launch of the hosted version on [datasaurus.app](https://datasaurus.app)
+If you are interested, please leave us a star and/or sign up for launch of the hosted version on [datasaurus.app](https://datasaurus.app)
