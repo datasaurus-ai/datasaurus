@@ -69,16 +69,16 @@ Instead of training a model from scratch, you can just prompt your images.
 
 ## Running Locally
 
-1. Install [NodeJS 20](https://nodejs.org/en/download/current) (earlier versions will very likely work but aren't tested).
-2. Install [Supabase](https://supabase.com/docs/guides/cli/local-development) with `npm i supabase --save-dev`.
-3. Install [Conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html).
-4. Clone this repository and open it: `git clone https://github.com/datasaurus-ai/datasaurus && cd datasaurus`.
-5. Install the frontend dependencies: `cd frontend && npm install && cd ..`.
-6. Install the backend dependencies: `cd backend && virtualenv datasaurus-backend && source datasaurus-backend/bin/activate && pip install -r requirements.txt && cd ..`.
-7. Start Supabase: `cd supabase && supabase start && cd ..`.
+1. Install [NodeJS 20](https://nodejs.org/en/download/current) (earlier versions will very likely work but aren't tested)
+2. Install [Supabase](https://supabase.com/docs/guides/cli/local-development) with `npm i supabase --save-dev`
+3. Install [Conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
+4. Clone this repository and open it: `git clone https://github.com/datasaurus-ai/datasaurus && cd datasaurus`
+5. Install the frontend dependencies: `cd frontend && npm install && cd ..`
+6. Install the backend dependencies: `cd backend && virtualenv datasaurus-backend && source datasaurus-backend/bin/activate && pip install -r requirements.txt && cd ..`
+7. Start Supabase: `cd supabase && supabase start && cd ..`
 8. Register for an account on replicate.com and obtain an API key. We utilize Replicate as our backend for performing inference. (Note: running models locally capability coming soon.)
-9. Complete the backend `.env` file (`cd backend && cp .env.example .env && cd ..`).
-10. Complete the frontend `.env` file (`cd frontend && cp .env.example .env && cd ..`).
-11. Start the backend: `cd backend && source datasaurus-backend/bin/activate && uvicorn src.main:app --reload && cd ..`.
+9. Create the backend `.env` file (`cd backend && cp .env.example .env && cd ..`) and complete it
+10. Create the frontend `.env` file (`cd frontend && cp .env.example .env && cd ..`) and complete it
+11. Start the backend: `cd backend && source datasaurus-backend/bin/activate && uvicorn src.main:app --reload && cd ..`
 12. Start the frontend: `cd frontend && npm run dev && cd ..`.
-13. Navigate to [http://localhost:3000](http://localhost:3000).
+13. Navigate to [http://localhost:3000](http://localhost:3000)
