@@ -4,10 +4,6 @@
   </a>
 </p>
 
-
-
-
-
 <h1 align="center">
   Datasaurus
 </h1>
