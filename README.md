@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://datasaurus.app">
-    <img height="150" src="https://github.com/datasaurus-ai/datasaurus/assets/32412211/fffddd33-312e-45ac-89b3-ece5e236960d" alt="logo">
+    <img height="150" src="https://github.com/datasaurus-ai/datasaurus/assets/32412211/2cefc2ea-5686-4fdc-93c5-d09a895efe59" alt="logo">
   </a>
 </p>
+
 
 <h1 align="center">
   Datasaurus
