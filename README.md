@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://datasaurus.app">
-    <img height="150" src="https://github.com/datasaurus-ai/datasaurus/assets/32412211/fffddd33-312e-45ac-89b3-ece5e236960d" alt="logo">
+    <img height="150" src="https://github.com/datasaurus-ai/datasaurus/assets/32412211/641e758c-95ea-4822-9664-161c139e35e8" alt="logo">
   </a>
 </p>
 
