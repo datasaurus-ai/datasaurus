@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://datasaurus.app">
-    <img height="150" src="https://raw.githubusercontent.com/datasaurus-ai/datasaurus/d03d4bf9458adf67ca2e1579bf8be3fc1173e04c/frontend/public/logo.png?raw=true" alt="logo">
+    <img height="150" src="https://github.com/datasaurus-ai/datasaurus/assets/32412211/fffddd33-312e-45ac-89b3-ece5e236960d" alt="logo">
   </a>
 </p>
 
@@ -25,7 +25,7 @@ Leverage foundational text-vision model for your computer vision tasks. Instead 
 <br>
 <br>
 <p align="center">
- <img width="720" src="https://github.com/datasaurus-ai/datasaurus/blob/fd28e7dededc80d4e24cb09df6ad852051698d44/frontend/public/demo.gif?raw=true" alt="demo">
+ <img width="720" src="https://github.com/datasaurus-ai/datasaurus/assets/32412211/7b9a36dd-9264-4442-ba25-e29a5a1516f3" alt="demo">
 </p>
 
 ## Features
